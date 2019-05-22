@@ -1,2 +1,2 @@
 # firestudio-workspace
-A Gitpod workspace for Firestudio 
+A workspace for creating Firestudio apps in Gitpod
